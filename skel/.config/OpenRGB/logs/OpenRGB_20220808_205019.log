@@ -1,0 +1,40 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220808_205019
+====================================================================================================
+
+0     |Info:    Found file: My-Keyboard.orp attempting to validate header
+0     |Info:    Valid v3 profile found for My-Keyboard
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    |               Start device detection               |
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    Initializing HID interfaces: Success
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    |             Detecting I2C interfaces               |
+1004  |Info:    ------------------------------------------------------
+1005  |Info:    Registering I2C interface: /dev/i2c-3 Device 1002:67DF Subsystem: 1DA2:E366
+1005  |Info:    Registering I2C interface: /dev/i2c-1 Device 1002:67DF Subsystem: 1DA2:E366
+1005  |Info:    Registering I2C interface: /dev/i2c-6 Device 0000:0000 Subsystem: 0000:0000
+1005  |Info:    Registering I2C interface: /dev/i2c-4 Device 1002:67DF Subsystem: 1DA2:E366
+1005  |Info:    Registering I2C interface: /dev/i2c-2 Device 1002:67DF Subsystem: 1DA2:E366
+1005  |Info:    Registering I2C interface: /dev/i2c-0 Device 1002:67DF Subsystem: 1DA2:E366
+1005  |Info:    Registering I2C interface: /dev/i2c-7 Device 8086:A2A3 Subsystem: 1458:5001
+1005  |Info:    Registering I2C interface: /dev/i2c-5 Device 0000:0000 Subsystem: 0000:0000
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Detecting I2C devices                |
+1005  |Info:    ------------------------------------------------------
+1277  |Info:    ------------------------------------------------------
+1277  |Info:    |               Detecting HID devices                |
+1277  |Info:    ------------------------------------------------------
+1277  |Info:    [Logitech G203 Prodigy] Registering RGB controller
+1277  |Info:    Unable to open all device report endpoints, unable to add device
+1283  |Info:    [Razer Cynosa Chroma] Registering RGB controller
+1283  |Info:    ------------------------------------------------------
+1283  |Info:    |              Detecting other devices               |
+1283  |Info:    ------------------------------------------------------
+1288  |Info:    Profile loading: Succeeded for Logitech G203 Prodigy @ /dev/hidraw1
+1288  |Info:    Profile loading: Succeeded for Razer Cynosa Chroma @ HID: /dev/hidraw4
+1288  |Info:    ------------------------------------------------------
+1288  |Info:    |                Detection completed                 |
+1288  |Info:    ------------------------------------------------------
+2456  |Info:    Loading plugins
