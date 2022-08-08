@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="105">
+  <name>Window Title Applet</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1274218</homepage>
+  <licence></licence>
+  <version>0.7.0</version>
+  <rating>88</rating>
+  <downloads>137826</downloads>
+  <installedfile>/home/live/.local/share/plasma/plasmoids/org.kde.windowtitle</installedfile>
+  <id>1274218</id>
+  <releasedate>2021-06-15</releasedate>
+  <summary>This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;br />
+You can install this applet directly from Plasma 5 Widgets Explorer</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</previewBig>
+  <payload>https://dl3.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjM3NzkwMjAiLCJvIjoiMSIsInMiOiI5ZTE1N2MzMmExNjA3ZDgzYmZlZDc0ZTdmOTE2MWE3ODYyY2E2ZWIwMjZkYzJkNDQ3MzJiMGZiNDVkNDEyOGVlNDMxZGRlZDMwOWI3OWRjN2M2NzViY2FmOTE1Y2E3ZDdiYTVjYmFkZTkzNzhkNjk2MDVjMGE1ZTNmYzE3ZjQxOSIsInQiOjE2NjAwMDIyNjksInN0ZnAiOm51bGwsInN0aXAiOiI4My4xNDYuNjIuMjM4In0.eV5xl3eyA9zgKOVN64Ictzmb5lET6ee2-9LGZzNDo78/applet-window-title-0.7.0.plasmoid</payload>
+  <tags>title,unix,widget,window,original-product,panel,plasma##majorversion=5,plasma,gplv2,extension,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
