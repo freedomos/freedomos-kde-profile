@@ -1,16 +1,34 @@
+[PlasmaTransientsConfig]
+PreloadWeight=26
+
 [PlasmaViews][Panel 2]
-floating=1
+floating=0
 
 [PlasmaViews][Panel 2][Defaults]
-thickness=44
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal1264]
+thickness=38
+
+[PlasmaViews][Panel 2][Horizontal1272]
+thickness=38
 
 [PlasmaViews][Panel 2][Horizontal2560]
+thickness=44
+
+[PlasmaViews][Panel 2][Horizontal800]
 thickness=44
 
 [PlasmaViews][Panel 23][Defaults]
 thickness=27
 
+[PlasmaViews][Panel 23][Horizontal1264]
+thickness=27
+
 [PlasmaViews][Panel 23][Horizontal2560]
+thickness=27
+
+[PlasmaViews][Panel 23][Horizontal800]
 thickness=27
 
 [Updates]

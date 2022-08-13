@@ -6,7 +6,9 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
+ItemGeometries-1264x1310=
 ItemGeometries-2560x1308=
+ItemGeometries-800x600=
 ItemGeometriesHorizontal=
 activityId=4ca0d918-7a52-4088-b443-eff924a1e566
 formfactor=0
@@ -22,8 +24,7 @@ DialogWidth=720
 
 [Containments][1][General]
 ToolBoxButtonState=top
-ToolBoxButtonX=896
-ToolBoxButtonY=27
+ToolBoxButtonX=476
 
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/FreedomOS/contents/images/3840x2160.jpg
@@ -49,6 +50,9 @@ plugin=org.kde.plasma.showdesktop
 [Containments][2][Applets][3]
 immutability=1
 plugin=org.kde.plasma.kickoff
+
+[Containments][2][Applets][3][Configuration]
+PreloadWeight=100
 
 [Containments][2][Applets][3][Configuration][ConfigDialog]
 DialogHeight=540
@@ -89,43 +93,14 @@ PreloadWeight=55
 SystrayContainmentId=8
 
 [Containments][2][ConfigDialog]
-DialogHeight=84
-DialogWidth=2560
+DialogHeight=74
+DialogWidth=1264
 
 [Containments][2][General]
 AppletOrder=3;4;5;6;7;19;20
 
-[Containments][23]
-activityId=
-formfactor=2
-immutability=1
-lastScreen=0
-location=3
-plugin=org.kde.panel
-wallpaperplugin=org.kde.image
-
-[Containments][23][Applets][24]
-immutability=1
-plugin=org.kde.plasma.appmenu
-
-[Containments][23][Applets][25]
-immutability=1
-plugin=org.kde.windowtitle
-
-[Containments][23][Applets][25][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][23][Applets][25][Configuration][General]
-containmentType=Plasma
-showIcon=false
-
-[Containments][23][ConfigDialog]
-DialogHeight=84
-DialogWidth=2560
-
-[Containments][23][General]
-AppletOrder=25;24
+[Containments][2][Shortcuts]
+global=
 
 [Containments][8]
 activityId=
