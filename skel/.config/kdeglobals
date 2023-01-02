@@ -100,6 +100,10 @@ ForegroundVisited=155,89,182
 [General]
 ColorSchemeHash=fe6711d5312a664b695e8bc1d1d4b53f52ba20f0
 
+
+[Icons]
+Theme=Stylish-Dark
+
 [KDE]
 LookAndFeelPackage=com.github.varlesh.arc-dark
 SingleClick=false
