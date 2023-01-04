@@ -139,9 +139,6 @@ ForegroundVisited=120,120,120
 DirSelectDialog Size=823,564
 History Items[$e]=file:$HOME/Downloads/Twilight-dark,file:///mnt/Projects
 
-[General]
-BrowserApplication=google-chrome.desktop
-ColorSchemeHash=fe6711d5312a664b695e8bc1d1d4b53f52ba20f0
 
 [Icons]
 Theme=Stylish-Dark

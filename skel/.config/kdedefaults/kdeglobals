@@ -1,8 +1,8 @@
 [General]
-ColorScheme=ArcDark
+ColorScheme=ColloidDarkNord
 
 [Icons]
-Theme=Papirus-Dark
+Theme=Colloid-nord-dark
 
 [KDE]
 widgetStyle=Breeze
