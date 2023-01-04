@@ -1,14 +1,9 @@
-[$Version]
-update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
-
 [ColorEffects:Disabled]
-ChangeSelectionColor=
 Color=56,56,56
 ColorAmount=0
 ColorEffect=0
 ContrastAmount=0.65
 ContrastEffect=1
-Enable=
 IntensityAmount=0.1
 IntensityEffect=2
 
@@ -135,45 +130,13 @@ ForegroundNormal=222,222,222
 ForegroundPositive=39,174,96
 ForegroundVisited=120,120,120
 
-[DirSelect Dialog]
-DirSelectDialog Size=823,564
-History Items[$e]=file:$HOME/Downloads/Twilight-dark,file:///mnt/Projects
-
 [General]
-BrowserApplication=google-chrome.desktop
-ColorSchemeHash=fe6711d5312a664b695e8bc1d1d4b53f52ba20f0
-
-[Icons]
-Theme=Stylish-Dark
+ColorScheme=ColloidNordDark
+Name=ColloidNordDark
+shadeSortColumn=true
 
 [KDE]
-LookAndFeelPackage=com.github.vinceliuice.Colloid-dark-nord
-ShowDeleteCommand=false
-SingleClick=false
-widgetStyle=kvantum-dark
-
-[KFileDialog Settings]
-Allow Expansion=false
-Automatically select filename extension=true
-Breadcrumb Navigation=true
-Decoration position=2
-LocationCombo Completionmode=5
-PathCombo Completionmode=5
-Show Bookmarks=false
-Show Full Path=false
-Show Inline Previews=true
-Show Preview=false
-Show Speedbar=true
-Show hidden files=false
-Sort by=Name
-Sort directories first=true
-Sort hidden files last=false
-Sort reversed=false
-Speedbar Width=133
-View Style=DetailTree
-
-[PreviewSettings]
-MaximumRemoteSize=0
+contrast=4
 
 [WM]
 activeBackground=36,41,50
